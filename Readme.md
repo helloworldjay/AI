@@ -1,3 +1,3 @@
-# test
+# git for AI Precourse
 
-## week 1
+## AI 사관학교
